@@ -15,9 +15,9 @@ def banco():
     # === 📌 Solicitud 1 ===
     payload_1 = {
         "TipoProducto": "1",
-        "IdProducto": "9902603919",
+        "IdProducto": "9902604099",
         "TipoDocumento": "1",
-        "NumeroDocumento": "80050177",
+        "NumeroDocumento": "80050180",
         "UniqueCode": None
     }
     response_1 = session.post(
